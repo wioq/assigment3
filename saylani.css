@@ -1,0 +1,213 @@
+.first{
+    background-color: royalblue;
+    margin: center;
+}
+#face{
+    margin: auto;
+    text-decoration: none;
+}
+#face a{
+    color: yellowgreen;
+}
+img{
+    padding: 10px;
+}
+p{
+    margin-left: 70px ;
+    margin-right: 50px;
+    color: white;
+}
+button{
+    margin-left: 50px;
+    border: solid greenyellow 1px;
+    padding: 2px;
+}
+a:link{
+    color: green;
+}
+button{
+    margin: auto;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#drop{
+    margin-top: -60px;
+}
+#drop ul{
+   list-style: none;
+   margin-left: 210px;
+}
+#drop ul li ul{
+    margin-left: 0px;
+}
+#drop ul li a{
+    color:white;
+    text-decoration: none;
+}
+#drop ul li{
+    background-color: teal;
+    width: 150px;
+    border: 1px solid white;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    float: left;
+    border-radius: 20px;
+}
+#drop ul li:hover{
+    background-color: seagreen;
+}
+#drop ul ul{
+    display: none;
+}
+#drop ul li:hover>ul{
+    display: block;
+}
+#drop ul ul ul{
+    margin: 150px;
+    margin-top: -30px;
+}
+image{
+    float: right;
+}
+.btn-group{
+    background-color: cornflowerblue;
+}
+.li{
+    display: inline;
+    margin-right: 270px;
+}
+#image{
+    float: left;
+}
+
+#move{
+    background-color: darkseagreen;
+}
+h1{
+   
+    color:slateblue;
+}
+span{
+    color: seagreen;
+}
+.colp{
+    color: slategray;
+}
+#SC{
+    text-align: center;
+}
+#flash{
+    background-color: lightseagreen;
+}
+#mk4{
+    text-align: center;
+}
+#Glock ul{
+   list-style: none;
+   background-color: whitesmoke;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#Glock ul li button{
+    margin-left:90px ;
+    background-color:white;
+    border: solid seashell;
+    padding:70px;
+    box-shadow: 5px 5px 15px 5px #000000;
+    color: steelblue;
+    font-size: 20px;
+}
+#Glock ul li button img{
+    display: block;
+}
+#Glock ul li{
+    display: inline;
+}
+h2{
+    color: steelblue;
+    padding-left: 80px;
+}
+#lever tr{
+    list-style: none;
+   background-color: whitesmoke;
+}
+#levr tr  button{
+    margin-left: 83px;
+    background-color:white;
+    border: solid seashell;
+    box-shadow: 5px 5px 15px 1px #000000;
+    color: steelblue;
+    padding: 30px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+#levr tr td{
+    display: inline;
+}
+.hello{
+    margin-left: 250px;
+}
+#tip p{
+    color: black;
+   
+}
+#tip marquee{
+   margin-left: 800px;
+   margin-top: -800px;
+   margin-bottom: 50px;
+}
+u{
+    color: teal;
+}
+#cube{
+    text-align: center;
+}
+#look{
+    margin: auto;
+ 
+}
+#look img:hover{
+    background-color: gray;
+    color: honeydew;
+
+}
+#black{
+    background-color: rgb(54, 50, 50);
+    height: 500px;
+
+}
+#black p{
+    height: 20px;
+}
+#black span{
+    color: white;
+}
+#black h4{
+    
+    color: white;
+    display: inline;
+    padding-left: 550px;
+    font-size: 20px;
+    
+}
+#black h5{
+   display: inline;
+    color: white;
+    font-size: 20px;
+    padding-left: 260px;
+   
+}
+#id{
+    padding-left: 890px;
+}
+#dd{
+    background-color: steelblue;
+    height: 60px;
+    font-size: 12px;
+}
+
+#tp{
+ padding-left: 1200px;
+}

@@ -1,0 +1,32 @@
+div{
+   background-color: rgb(103, 103, 224) ;
+   line-height: 2em;
+}
+h1>b{
+    color:rgb(81, 81, 247);
+}
+tr{
+    color: white;
+}
+img{
+    padding-left: 10cm;
+}
+h1>b{
+    padding-left: 5cm;
+}
+body{
+    margin:5cm;
+    }
+form{
+    width: 860px;
+}
+tr{
+    height: 6px;
+}
+table{
+    height: 6px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
